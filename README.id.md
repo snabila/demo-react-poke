@@ -7,5 +7,7 @@ Projek demo ini adalah demonstrasi sederhana dari aplikasi web yang terhubung AP
 Aplikasi ini menggunakan:
 
 - Poke API
-- Router transitions
-- Component load animation (masih agak aneh, perlu diperbaiki)
+- Tailwind CSS
+- Route dan component load transition menggunakan react-transition-group
+
+Bisa lihat live demo [disini](https://demo-react-poke.netlify.app/)
